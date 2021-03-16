@@ -887,7 +887,7 @@ a {
   background-color: #fafafa;
 }
 .cid-sr8VN0v2xN .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-sr8VN0v2xN .mbr-text {
   text-align: center;
@@ -903,7 +903,7 @@ a {
   background-color: #eae7e7;
 }
 .cid-sr92tIdIam .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-sr92tIdIam .mbr-text {
   text-align: center;
@@ -919,42 +919,13 @@ a {
   background-color: #fafafa;
 }
 .cid-sraZqB7YkN .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-sraZqB7YkN .mbr-text {
   text-align: center;
 }
-.cid-sraZrbwGBQ {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sraZrbwGBQ blockquote {
-  border-color: #fafafa;
-  border-radius: 4px;
-  background-color: #eae7e7;
-}
-.cid-sraZrbwGBQ .mbr-section-title {
-  text-align: center;
-}
-.cid-sraZrbwGBQ .mbr-text {
-  text-align: center;
-}
-.cid-sraZrNzGih {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sraZrNzGih blockquote {
-  border-color: #fafafa;
-  border-radius: 4px;
-  background-color: #fafafa;
-}
-.cid-sraZrNzGih .mbr-section-title {
-  text-align: center;
-}
-.cid-sraZrNzGih .mbr-text {
-  text-align: center;
+.cid-sraZqB7YkN .mbr-section-title DIV {
+  text-align: left;
 }
 .cid-sraZsOsB83 {
   padding-top: 0rem;
@@ -967,7 +938,7 @@ a {
   background-color: #eae7e7;
 }
 .cid-sraZsOsB83 .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-sraZsOsB83 .mbr-text {
   text-align: center;
@@ -1201,13 +1172,13 @@ a {
   color: #232323;
 }
 .cid-srePSakwtx {
-  padding-top: 5rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: #fafafa;
 }
 .cid-srePSakwtx .oldcost {
   text-decoration: line-through;
-  color: #353535;
+  color: #9d9898;
 }
 .cid-srePSakwtx .currentcost {
   color: #3db62c;
@@ -1260,7 +1231,7 @@ a {
   color: #ffffff;
 }
 .cid-sreTzVP8cM .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sreTzVP8cM .mbr-text,
 .cid-sreTzVP8cM .mbr-section-btn,
