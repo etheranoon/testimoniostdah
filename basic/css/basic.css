@@ -15,8 +15,8 @@ body{
 
 .flipbook-viewport .container{
 	position:absolute;
-	top:30%;
-	left:30%;
+	top:60%;
+	left:60%;
 	margin:auto;
 }
 
@@ -24,7 +24,7 @@ body{
 	width:1800px;
 	height:1350px;
 	left:-461px;
-	top:-600px;
+	top:-300px;
 }
 
 .flipbook-viewport .page{
